@@ -5,7 +5,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
 import { setDarkTheme, setLightTheme, setMCTheme } from '../../app/slices/themeSlice';
 
-//Assets
+//Assets borrar esto
 import { lightTheme, darkTheme, mcDonaldsTheme } from 'themes';
 import { OtherIcons } from 'icons';
 
